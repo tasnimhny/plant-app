@@ -1,0 +1,16 @@
+dataset/
+test/
+train/
+val/
+*.jpg
+
+models/
+*.pth
+*.onnx
+*.mlmodel
+
+plantenv/
+venv/
+.env/
+
+.DS_Store
